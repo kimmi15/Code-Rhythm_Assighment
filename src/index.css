@@ -4,10 +4,26 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
+  background-color: aqua;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+table, th, td {
+  border: 1px solid;
+}
+table {
+  width: 50%;
+  text-decoration: dashed;
+  text-align: center;
+  background-color: white;
+}
+table {
+  border-collapse: collapse;
+}
+table {
+  border: 5px solid;
 }
